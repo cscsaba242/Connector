@@ -1,3 +1,5 @@
+**/META-INF
+**/bin
 # Compiled class file
 *.class
 
@@ -33,6 +35,7 @@ build
 .vscode
 
 /secrets
+/myplus
 
 distributions/**/github.properties
 
